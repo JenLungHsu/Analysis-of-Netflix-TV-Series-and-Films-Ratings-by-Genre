@@ -36,12 +36,14 @@ The study follows these steps:
 ## Usage
 To view the analysis, simply open the provided PDF report:
 ```
-ANALYSIS OF NETFLIX TV SERIES AND FILMS RATINGS BY GENRE.pdf
+RE6121011徐仁瓏_ANALYSIS OF NETFLIX TV SERIES AND FILMS RATINGS BY GENRE.pdf
 ```
 
 ## Project Structure
 ```
-├── ANALYSIS OF NETFLIX TV SERIES AND FILMS RATINGS BY GENRE.pdf
+├── NF.ipynb
+├── Netflix Engagement (plus).csv
+├── RE6121011徐仁瓏_ANALYSIS OF NETFLIX TV SERIES AND FILMS RATINGS BY GENRE.pdf
 ├── README.md
 ```
 
