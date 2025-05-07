@@ -1,5 +1,7 @@
 # Analysis of Netflix TV Series and Films Ratings by Genre
 
+112-1 Statistical Method Final Project
+
 ## Project Overview
 This project analyzes the ratings of TV series and films across various genres on Netflix. Through comprehensive data collection, pre-processing, Analysis of Variance (ANOVA), and Post-hoc analysis, the study investigates audience rating differences to identify genres with higher audience ratings. These insights aim to aid content creators in understanding audience preferences within the streaming entertainment sector.
 
