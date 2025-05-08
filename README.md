@@ -1,6 +1,6 @@
 # Analysis of Netflix TV Series and Films Ratings by Genre
 
-[![Semester](https://img.shields.io/badge/Semester-Fall%202023-blue)]() [![Project](https://img.shields.io/badge/Project-Statistical%20Method%20Final%20Project-orange)]()
+[![Semester](https://img.shields.io/badge/Semester-Fall%202023-blue)]() [![Project](https://img.shields.io/badge/Project-Statistical%20Methods%20Final%20Project-orange)]()
 
 🚀 Check out the [report](https://github.com/JenLungHsu/Analysis-of-Netflix-TV-Series-and-Films-Ratings-by-Genre/blob/main/RE6121011%E5%BE%90%E4%BB%81%E7%93%8F_ANALYSIS%20OF%20NETFLIX%20TV%20SERIES%20AND%20FILMS%20RATINGS%20BY%20GENRE.pdf)  for more detail.
 
